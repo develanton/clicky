@@ -1,0 +1,19 @@
+footer{
+    background-color:#2388e8;
+    width: 100%;
+    height: 50px;
+    display:block;
+    bottom: 0px !important;
+}
+
+.topFooter{
+    height: 30px;
+    background-color: #2388e8;
+}
+.bottomFooter{
+    height: 40px;
+    background-color: #0c64b6;
+    padding-left: 10px;
+    padding-top: 6px;
+    color:white;
+}

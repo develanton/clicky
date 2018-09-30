@@ -1,0 +1,64 @@
+[
+    {
+        "id":1,
+        "img": "./assets/beth.png"
+
+    },
+
+    {
+        "id":2,
+        "img": "./assets/birdman.png"
+
+    },
+    {
+        "id":3,
+        "img": "./assets/evilmorty.png"
+
+    },
+    {
+        "id":4,
+        "img": "./assets/gianthead.png"
+
+    },
+    {
+        "id":5,
+        "img": "./assets/goldenford.png"
+
+    },
+    {
+        "id":6,
+        "img": "./assets/jerry.png"
+
+    },
+    {
+        "id":7,
+        "img": "./assets/jessica.png"
+
+    },
+    {
+        "id":8,
+        "img": "./assets/meeseeks.png"
+
+    },
+    {
+        "id":9,
+        "img": "./assets/morty.png"
+
+    },
+    {
+        "id":10,
+        "img": "./assets/mr.png"
+
+    },
+    {
+        "id":11,
+        "img": "./assets/rick.png"
+
+    },
+    {
+        "id":12,
+        "img": "./assets/summer.png"
+
+    }
+    
+]
